@@ -36,7 +36,7 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
     cd REST_Connector_3CX
     ```
 
-2. **Install dependencies**:
+2. **Update configuration**:
    Update the configuration file (`appsettings.json`) with your 3CX API credentials, Genesys v2 chat API information, and any other relevant settings.
 
 4. **Configuration**:  
