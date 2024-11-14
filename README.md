@@ -45,15 +45,15 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
     ```
 
 5. **Publish the application**:
-   for Windows:
+   Windows:
     ```bash
     dotnet publish -r win-x64 --self-contained -c Release
     ```
-   for Linux:
+   Linux:
     ```bash
     dotnet publish -r linux-x64 --self-contained -c Release
     ```
-7. ****
+7. **Run the application**
    Give the "rest_connector_3cx" file execute permissions.
 
 
