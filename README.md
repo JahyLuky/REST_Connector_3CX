@@ -36,7 +36,7 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
     cd REST_Connector_3CX
     ```
 
-2. **Update configuration**:
+2. **Update configuration**:<br>
    Update the configuration file (`appsettings.json`) with your 3CX API credentials, Genesys v2 chat API information, and any other relevant settings.
 
 4. **Configuration**:  
@@ -53,7 +53,7 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
     ```bash
     dotnet publish -r linux-x64 --self-contained -c Release
     ```
-7. **Run the application**
+7. **Run the application**:<br>
    Give the "rest_connector_3cx" file execute permissions.
 
 
