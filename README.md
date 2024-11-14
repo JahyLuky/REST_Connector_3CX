@@ -33,7 +33,7 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
 1. **Clone the repository**:
     ```bash
     git clone [https://github.com/yourusername/yourprojectname.git](https://github.com/JahyLuky/REST_Connector_3CX.git)
-    cd rest_connector_3cx
+    cd REST_Connector_3CX
     ```
 
 2. **Install dependencies**:
