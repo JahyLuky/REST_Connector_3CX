@@ -9,7 +9,7 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
 - **3CX Chat Integration**: Connects with [3CX’s API](https://www.3cx.com/docs/configuration-rest-api) to retrieve and manage chat statistics, enhancing your chat solution with detailed group data.
 - **Client API**: Uses [Genesys v2 chat API](https://docs.genesys.com/Documentation/ES/8.5.0/WebAPI/Chat) for client-side chat functionalities. Request Chat, Send Message, Send Url, Update User Data and Chat Complete are supported.
 - **3CX Chat**: For 3CX chat implementation is used [SMS/MMS API](https://www.3cx.com/docs/supported-sip-trunk-requirements/#h.z7xet9uflkmo).
-- **Swagger UI**: Built-in Swagger support for easy testing and exploration of API endpoints.
+- **Swagger UI**: Built-in Swagger support for easy testing and exploration of API endpoints. Check REST_Connector_3CX.pdf for documentation.
 - **Logging**: Centralized logging in the `Logs/` directory for tracking and troubleshooting.
 - **Multiplatform**: Based on build, this application can run on Windows or Linux
 
