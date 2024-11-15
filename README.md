@@ -60,18 +60,6 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
 ### Usage
 
 1. **Start chat session**
-   Request Chat -> this creates chat session in the REST Connector and created IDs.
-   ```json
-   {
-    "tenantName": "Resources",
-    "nickname":"testname123",
-    "emailAddress":"email@address",
-    "subject":"subject to",
-    "userData":{
-        "chatbot_service":"value1",
-        "key2":"value2"
-    }
-   }
-   ```
+   - Request Chat -> Create chat session.
 3. **Send message**
-   Send Message -> this sends message to 3CX.
+   - Send Message -> Use ID from 1. and send message to 3CX.
