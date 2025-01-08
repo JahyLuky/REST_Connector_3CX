@@ -45,7 +45,7 @@ This project is a **REST API connector** for integrating **3CX Chat** with any A
     dotnet build
     ```
 
-5. **Publish the application**:
+5. **Publish the application**:<br>
    Windows:
     ```bash
     dotnet publish -r win-x64 --self-contained -c Release
